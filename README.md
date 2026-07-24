@@ -27,5 +27,5 @@ CS50-CYBERSECURITY/
 
 ## Author
 
-Emma (Imane Zouine)
+Imane Zouine
 Cybersecurity and Digital Trust, ENSAJ, Universite Chouaib Doukkali
