@@ -24,6 +24,13 @@ CS50-CYBERSECURITY/
 | 3 | Securing Software | Complete | [assignment-3](./assignment-3/README.md) |
 | 4 | Preserving Privacy | Complete | [assignment-4](./assignment-4/README.md) |
 | Final Project | EchoLeak (CVE-2025-32711) | Complete | [final-project](./final-project/README.md) |
+## Certificate
+
+<p align="center">
+  <img src="./CS50 Cybersecurity.png" alt="CS50 Cybersecurity Certificate" width="600">
+</p>
+
+[Download PDF version](./CS50%20Cybersecurity.pdf)
 
 ## Author
 
